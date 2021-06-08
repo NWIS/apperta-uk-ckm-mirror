@@ -135,8 +135,8 @@
       </Items>
     </Context>
   </definition>
-  <integrity_checks xsi:type="ArchetypeIntegrity" archetype_id="openEHR-EHR-COMPOSITION.medication_list.v1">
-    <digest id="MD5-CAM-1.0.1">DEF0811EE253F235DD8DC10ABBB36769</digest>
+  <integrity_checks xsi:type="ArchetypeIntegrity" archetype_id="openEHR-EHR-COMPOSITION.medication_list.v0">
+    <digest id="MD5-CAM-1.0.1">80E3D1CF64FE92C51E373442DE4EB9C4</digest>
   </integrity_checks>
   <integrity_checks xsi:type="ArchetypeIntegrity" archetype_id="openEHR-EHR-CLUSTER.xds_metadata.v0">
     <digest id="MD5-CAM-1.0.1">B2538EC96A6545E2E6F04CE532DA36E3</digest>
@@ -147,8 +147,8 @@
   <integrity_checks xsi:type="ArchetypeIntegrity" archetype_id="openEHR-EHR-INSTRUCTION.medication_order.v1">
     <digest id="MD5-CAM-1.0.1">23C66F34EE4EBC155366C66296221B99</digest>
   </integrity_checks>
-  <integrity_checks xsi:type="ArchetypeIntegrity" archetype_id="openEHR-EHR-CLUSTER.medication.v1">
-    <digest id="MD5-CAM-1.0.1">2F8FAC73C32910334C637CF675BD3713</digest>
+  <integrity_checks xsi:type="ArchetypeIntegrity" archetype_id="openEHR-EHR-CLUSTER.medication.v0">
+    <digest id="MD5-CAM-1.0.1">4AA021E61C24455E34F3E13CEF0BB19F</digest>
   </integrity_checks>
   <integrity_checks xsi:type="ArchetypeIntegrity" archetype_id="openEHR-EHR-CLUSTER.therapeutic_direction.v1">
     <digest id="MD5-CAM-1.0.1">7E0B7E617F3E46A676CFA0C259FEAF96</digest>
